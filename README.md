@@ -1,1 +1,1 @@
-# SimpleCalculator
+# Number Guessing Game
